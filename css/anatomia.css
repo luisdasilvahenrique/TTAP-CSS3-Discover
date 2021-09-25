@@ -1,0 +1,17 @@
+/* 
+    * Selector
+    * Declaration
+    * Properties
+    * Property Value
+*/
+h1, h2{
+    color: blue;
+    font-size: 30px;
+    background: grey;
+    text-align: center;
+
+    margin: auto;
+    height: 100%;
+    width: 100%;
+}
+
